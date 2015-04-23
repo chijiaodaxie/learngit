@@ -19,7 +19,3 @@ dev2 was build on branch dev
 
 asdfasdfasdf dev
 
-stash the second time
-
-can you stash me
-
