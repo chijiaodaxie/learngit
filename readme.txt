@@ -1,4 +1,4 @@
-Git is a distribution version control system
+Git is a distribution version control system debug on master
 Git is free software
 
 can you been seen in the box!
